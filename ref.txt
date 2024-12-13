@@ -1,0 +1,24 @@
+inclusive-platform/
+│
+├── backend/
+│   ├── models/
+│   │   └── User.js
+│   │   └── Job.js
+│   │   └── Course.js
+│   │   └── Post.js
+│   ├── routes/
+│   │   └── auth.js
+│   │   └── jobs.js
+│   │   └── courses.js
+│   │   └── posts.js
+│   ├── app.js
+│   └── server.js
+│
+├── frontend/  # React project
+│   └── src/
+│       ├── components/
+│       └── pages/
+│
+└── README.md
+
+
